@@ -59,10 +59,10 @@ echo '{
   "up_mbps": 100,
   "down_mbps": 100,
   "disable_udp": false,
-  "obfs": "dhoom",
+  "obfs": "hamza",
   "auth": {
     "mode": "passwords",
-    "config": ["dhoom", "stronghold3"]
+    "config": ["hamza", "hamza"]
   }
 }
 ' >> /etc/hysteria/config.json
