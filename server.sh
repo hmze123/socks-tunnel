@@ -62,7 +62,7 @@ echo '{
   "obfs": "hamza",
   "auth": {
     "mode": "passwords",
-    "config": ["hamza", "hamza"]
+    "config": ["hamza", "stronghold3"]
   }
 }
 ' >> /etc/hysteria/config.json
