@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="vpn.khaledagn.com"
+DOMAIN="sg.socket-tunnel.online"
 
 # PROTOCOL
 PROTOCOL="udp"
@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="agnudp"
+OBFS="hamza"
 
 # PASSWORDS
-PASSWORD="agnudp"
+PASSWORD="hamza"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
