@@ -1,8 +1,8 @@
 #!/bin/sh
 
 #Do not forget to set this variables
-DOMAIN=api-mediateksts.online
-CF_ID=eskalartedexter62@gmail.com
+DOMAIN=sg.socket-tunnel.online
+CF_ID=sockettunnel68@gmail.com
 CF_KEY=63095e8ea8a6446c6eb2a08d8865ec52bfefe
 CF_ZONE=dfe3a4dae35c31ef92041c80010e1ba0
 MYIP=$(wget -qO- icanhazip.com);
